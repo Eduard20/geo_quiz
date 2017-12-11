@@ -1,8 +1,8 @@
-# crowdbotics
+# Geographical quiz
 
 # Step By Step Deployment
 
-1) https://github.com/Eduard20/crowdbotics.git
+1) https://github.com/Eduard20/geo_quiz.git
 2) cd crowdbotics
 3) npm i
 4) npm start
@@ -13,11 +13,3 @@
 login: esimonyan2014@gmail.com
 
 pass: test
-
-# MongoDB Cloud Platform
-
-link: https://mlab.com/databases/crowdbotics
-
-username: esimonyan
-
-pass: esimonyan2017
